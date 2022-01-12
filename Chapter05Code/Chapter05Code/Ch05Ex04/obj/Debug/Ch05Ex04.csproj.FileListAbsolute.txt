@@ -1,0 +1,6 @@
+D:\SKQ\C#资料\C#\Chapter05Code\Chapter05Code\Ch05Ex04\bin\Debug\Ch05Ex04.exe.config
+D:\SKQ\C#资料\C#\Chapter05Code\Chapter05Code\Ch05Ex04\bin\Debug\Ch05Ex04.exe
+D:\SKQ\C#资料\C#\Chapter05Code\Chapter05Code\Ch05Ex04\bin\Debug\Ch05Ex04.pdb
+D:\SKQ\C#资料\C#\Chapter05Code\Chapter05Code\Ch05Ex04\obj\Debug\Ch05Ex04.csprojResolveAssemblyReference.cache
+D:\SKQ\C#资料\C#\Chapter05Code\Chapter05Code\Ch05Ex04\obj\Debug\Ch05Ex04.exe
+D:\SKQ\C#资料\C#\Chapter05Code\Chapter05Code\Ch05Ex04\obj\Debug\Ch05Ex04.pdb

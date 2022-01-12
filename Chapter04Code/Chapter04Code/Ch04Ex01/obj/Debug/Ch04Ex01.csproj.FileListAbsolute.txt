@@ -1,0 +1,12 @@
+D:\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\bin\Debug\Ch04Ex01.exe.config
+D:\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\bin\Debug\Ch04Ex01.exe
+D:\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\bin\Debug\Ch04Ex01.pdb
+D:\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\obj\Debug\Ch04Ex01.csprojResolveAssemblyReference.cache
+D:\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\obj\Debug\Ch04Ex01.exe
+D:\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\obj\Debug\Ch04Ex01.pdb
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\bin\Debug\Ch04Ex01.exe.config
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\obj\Debug\Ch04Ex01.exe
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\obj\Debug\Ch04Ex01.pdb
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\bin\Debug\Ch04Ex01.exe
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\bin\Debug\Ch04Ex01.pdb
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex01\obj\Debug\Ch04Ex01.csprojResolveAssemblyReference.cache

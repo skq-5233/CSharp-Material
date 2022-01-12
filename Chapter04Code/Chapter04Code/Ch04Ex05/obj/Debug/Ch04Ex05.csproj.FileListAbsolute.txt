@@ -1,0 +1,6 @@
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex05\bin\Debug\Ch04Ex05.exe.config
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex05\bin\Debug\Ch04Ex05.exe
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex05\bin\Debug\Ch04Ex05.pdb
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex05\obj\Debug\Ch04Ex05.csprojResolveAssemblyReference.cache
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex05\obj\Debug\Ch04Ex05.exe
+D:\SKQ\VS-Code\ConsoleHello-World\C#\Chapter04Code\Chapter04Code\Ch04Ex05\obj\Debug\Ch04Ex05.pdb
