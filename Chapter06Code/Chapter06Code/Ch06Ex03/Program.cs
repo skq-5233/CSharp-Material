@@ -24,5 +24,9 @@ namespace Ch06Ex03
             Console.WriteLine("Summed Values = {0}", sum);
             Console.ReadKey();
         }
+
+
     }
+
+
 }

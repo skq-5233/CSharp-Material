@@ -8,7 +8,7 @@ namespace Ch06Ex02
 {
     class Program
     {
-        static int MaxValue(int[] intArray)
+        static int MaxValue(int[] intArray) //数组变量；
         {
             int maxVal = intArray[0];
             for (int i = 1; i < intArray.Length; i++)
@@ -16,7 +16,7 @@ namespace Ch06Ex02
                 if (intArray[i] > maxVal)
                     maxVal = intArray[i];
             }
-            return maxVal;
+            return maxVal; //返回数组中的最大值；
         }
 
         static void Main(string[] args)

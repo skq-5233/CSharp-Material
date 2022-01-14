@@ -1,0 +1,6 @@
+D:\SKQ\C#资料\C#\Chapter06Code\Chapter06Code\Ch06Ex05\bin\Debug\Ch06Ex05.exe.config
+D:\SKQ\C#资料\C#\Chapter06Code\Chapter06Code\Ch06Ex05\bin\Debug\Ch06Ex05.exe
+D:\SKQ\C#资料\C#\Chapter06Code\Chapter06Code\Ch06Ex05\bin\Debug\Ch06Ex05.pdb
+D:\SKQ\C#资料\C#\Chapter06Code\Chapter06Code\Ch06Ex05\obj\Debug\Ch06Ex05.csprojResolveAssemblyReference.cache
+D:\SKQ\C#资料\C#\Chapter06Code\Chapter06Code\Ch06Ex05\obj\Debug\Ch06Ex05.exe
+D:\SKQ\C#资料\C#\Chapter06Code\Chapter06Code\Ch06Ex05\obj\Debug\Ch06Ex05.pdb

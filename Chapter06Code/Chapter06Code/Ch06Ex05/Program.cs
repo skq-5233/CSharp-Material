@@ -22,7 +22,7 @@ namespace Ch06Ex05
 
         static void Main(string[] args)
         {
-            ProcessDelegate process;
+            ProcessDelegate process; //ProcessDelegate--委托名；
             Console.WriteLine("Enter 2 numbers separated with a comma:");
             string input = Console.ReadLine();
             int commaPos = input.IndexOf(',');
@@ -32,9 +32,9 @@ namespace Ch06Ex05
             Console.WriteLine("Enter M to multiply or D to divide:");
             input = Console.ReadLine();
             if (input == "M")
-                process = new ProcessDelegate(Multiply);
+                process = new ProcessDelegate(Multiply); //"M"--乘积；
             else
-                process = new ProcessDelegate(Divide);
+                process = new ProcessDelegate(Divide); //--除法；
             Console.WriteLine("Result: {0}", process(param1, param2));
             Console.ReadKey();
         }
